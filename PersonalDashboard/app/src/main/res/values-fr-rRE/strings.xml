@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personal Dashboard</string>
+    <string name="login">Connecter</string>
+    <string name="loginText">Entrer ici pour acceder</string>
+    <string name="register">S\'inscrire</string>
+    <string name="registartionPage">Mon application est votre meilleur compagnon au quotidien</string>
+    <string name="confirm">Confirmer</string>
+    <string name="registerText">Inscrit toi et utilise mon application</string>
+    <string name="action_location">Ma Location</string>
+    <string name="action_settings">Reglages</string>
+    <string name="action_notes">Notes</string>
+    <string name="action_logout">Deconnecter</string>
+    <string name="action_email">Email</string>
+    <string name="action_calendar">Calendrier</string>
+    <string name="title_activity_location">LocationActivite</string>
+    <string name="next">Suite</string>
+    <string name="previous">Avant</string>
+    <string name="get_location">Avoir Ma Location</string>
+    <string name="title_activity_email">EmailActivity</string>
+    <string name="email_sending">"Envoi Un Mail Maintenant "</string>
+    <string name="compose_email">Compose Un Mail</string>
+    <string name="title_activity_settings">Regralges</string>
+    <string name="title_activity_page_notes">Notes</string>
+    <string name="note_act">Prend des Notes</string>
+    <string name="save_note">Sauvgarde tes Notes</string>
+    <string name="view_note">Voi tes Notes</string>
+    <string name="title_activity_calendar">Calendrier</string>
+</resources>

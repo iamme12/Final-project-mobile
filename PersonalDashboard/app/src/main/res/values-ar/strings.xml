@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لوحة القيادة الشخصية</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="loginText">تسجيل الدخول هنا للوصول</string>
+    <string name="register">تسجيل</string>
+    <string name="registartionPage">لوحة التحكم الخاصة بي هي أفضل رفيق لك</string>
+    <string name="confirm">تؤكد</string>
+    <string name="registerText">سجل وابدأ في استخدام تطبيقي</string>
+    <string name="action_location">موقعي</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="action_notes">ملاحظات</string>
+    <string name="action_logout">تسجيل خروج</string>
+    <string name="action_email">البريد الإلكتروني</string>
+    <string name="action_calendar">التقويم</string>
+    <string name="title_activity_location">النشاط</string>
+    <string name="next">التالى</string>
+    <string name="title_activity_calendar">نشاط التقويم</string>
+    <string name="view_note">مشاهدة الملاحظة</string>
+    <string name="save_note">احفظ الملاحظات</string>
+    <string name="note_act">تدوين الملاحظات الآن</string>
+    <string name="title_activity_page_notes">نشاط ملاحظات الصفحة</string>
+    <string name="title_activity_settings">الإعدادات</string>
+    <string name="compose_email">"يؤلف بريد إلكتروني "</string>
+    <string name="email_sending">أرسل بريدا إلكترونيا</string>
+    <string name="title_activity_email">نشاط البريد الإلكتروني</string>
+    <string name="get_location">احصل على موقعي</string>
+    <string name="previous">السابق</string>
+</resources>

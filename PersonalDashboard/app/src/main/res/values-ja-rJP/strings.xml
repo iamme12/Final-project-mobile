@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" パーソナルダスボード"</string>
+    <string name="login">ログインする</string>
+    <string name="loginText">アクセスするには、ここにログインしてください</string>
+    <string name="register">" 登録"</string>
+    <string name="registartionPage">"マイダッシュボードは、銀行の活動をチェックするのに最適なコンパニオンです。さまざまなサービスを提供しています。 "</string>
+    <string name="confirm">確認</string>
+    <string name="action_location">"私の場所 "</string>
+    <string name="registerText">" 登録してアプリの使用を開始します"</string>
+    <string name="action_settings">設定</string>
+    <string name="action_notes">ノート</string>
+    <string name="action_logout">ログアウト</string>
+    <string name="action_email">Eメール</string>
+    <string name="action_calendar">カレンダー</string>
+    <string name="title_activity_location">ロケーションアクティビティ</string>
+    <string name="next">次</string>
+    <string name="title_activity_calendar">カレンダーアクティビティ</string>
+    <string name="view_note">"メモを見る "</string>
+    <string name="save_note">" メモを保存"</string>
+    <string name="note_act">" 今すぐメモを取る"</string>
+    <string name="title_activity_page_notes">" ページノートアクティビティ"</string>
+    <string name="title_activity_settings">設定アクティビティ</string>
+    <string name="compose_email">Eメールの作成</string>
+    <string name="email_sending">"今すぐメールを送信 "</string>
+    <string name="title_activity_email">"メールアクティビティ "</string>
+    <string name="get_location">前</string>
+    <string name="previous">" 前"</string>
+</resources>
