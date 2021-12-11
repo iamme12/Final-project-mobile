@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_calendar.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_email.xml" value="0.15443840579710144" />
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_location.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_main.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_menu.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_noetes.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_page_notes.xml" value="0.2" />
+        <entry key="..\:/Users/ALI/LAU/Fall2021/MobileDev/MobileFinalProj/PersonalDashboard/app/src/main/res/layout/activity_register.xml" value="0.24094202898550723" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
