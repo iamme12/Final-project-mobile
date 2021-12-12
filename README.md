@@ -13,6 +13,6 @@ STEP 5: ENJOY! :)
 ## THE APPLICATION USED FIREBASE.
 _____________________________________________________
 
--------------------------- ##THIS APPLICATION WAS DESIGNED BY:------------------------------------------------------------------
--------------------------- ## SALAH KOUSAIBANY. A STUDENT AT THE LEBANESE AMERICAN UNIVERSITY. ----------------------
--------------------------- ## Instructor: Dr. Charbel Daoud. ---------------------------------------------------------------------------
+ ## THIS APPLICATION WAS DESIGNED BY:------------------------------------------------------------------
+ ## SALAH KOUSAIBANY. A STUDENT AT THE LEBANESE AMERICAN UNIVERSITY. ----------------------
+ ## Instructor: Dr. Charbel Daoud. ---------------------------------------------------------------------------
