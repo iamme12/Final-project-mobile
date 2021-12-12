@@ -10,7 +10,8 @@ STEP 3: Wait till the gradle finishes.
 STEP 4: Press run to start the app on the emulator.
 
 STEP 5: ENJOY! :)
-## THE APPLICATION USED FIREBASE.
+
+THE APPLICATION USED FIREBASE.
 _____________________________________________________
 
  ## APPLICATION WAS DESIGNED BY:
