@@ -5,11 +5,9 @@ STEP 1: Download the code from GITHUB.
 
 STEP 2: Import the code to android studio.
 
-STEP 3: Wait till the gradle finishes.
+STEP 3: Press run to start the app on the emulator.
 
-STEP 4: Press run to start the app on the emulator.
-
-STEP 5: ENJOY! :)
+STEP 4: ENJOY! :)
 
 THE APPLICATION USED FIREBASE.
 _____________________________________________________
